@@ -4,12 +4,10 @@ Reactivitities is an example social network application that allows users to sig
 
   - ASP.Net CORE
   - CQRS
-  - React(with Typescript)
+  - React (with Typescript)
   - Entity Framework
   - Mobx
   - Visual Studio Code 
   - Web APIs
   - Postman
   - and more
-
-Connection Test Comment
